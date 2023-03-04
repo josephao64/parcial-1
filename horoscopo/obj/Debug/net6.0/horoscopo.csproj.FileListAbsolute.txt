@@ -1,0 +1,15 @@
+C:\Users\TECNO FACIL JALAPA\OneDrive\Escritorio\horoscopo\bin\Debug\net6.0\horoscopo.exe
+C:\Users\TECNO FACIL JALAPA\OneDrive\Escritorio\horoscopo\bin\Debug\net6.0\horoscopo.deps.json
+C:\Users\TECNO FACIL JALAPA\OneDrive\Escritorio\horoscopo\bin\Debug\net6.0\horoscopo.runtimeconfig.json
+C:\Users\TECNO FACIL JALAPA\OneDrive\Escritorio\horoscopo\bin\Debug\net6.0\horoscopo.dll
+C:\Users\TECNO FACIL JALAPA\OneDrive\Escritorio\horoscopo\bin\Debug\net6.0\horoscopo.pdb
+C:\Users\TECNO FACIL JALAPA\OneDrive\Escritorio\horoscopo\obj\Debug\net6.0\horoscopo.csproj.AssemblyReference.cache
+C:\Users\TECNO FACIL JALAPA\OneDrive\Escritorio\horoscopo\obj\Debug\net6.0\horoscopo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TECNO FACIL JALAPA\OneDrive\Escritorio\horoscopo\obj\Debug\net6.0\horoscopo.AssemblyInfoInputs.cache
+C:\Users\TECNO FACIL JALAPA\OneDrive\Escritorio\horoscopo\obj\Debug\net6.0\horoscopo.AssemblyInfo.cs
+C:\Users\TECNO FACIL JALAPA\OneDrive\Escritorio\horoscopo\obj\Debug\net6.0\horoscopo.csproj.CoreCompileInputs.cache
+C:\Users\TECNO FACIL JALAPA\OneDrive\Escritorio\horoscopo\obj\Debug\net6.0\horoscopo.dll
+C:\Users\TECNO FACIL JALAPA\OneDrive\Escritorio\horoscopo\obj\Debug\net6.0\refint\horoscopo.dll
+C:\Users\TECNO FACIL JALAPA\OneDrive\Escritorio\horoscopo\obj\Debug\net6.0\horoscopo.pdb
+C:\Users\TECNO FACIL JALAPA\OneDrive\Escritorio\horoscopo\obj\Debug\net6.0\horoscopo.genruntimeconfig.cache
+C:\Users\TECNO FACIL JALAPA\OneDrive\Escritorio\horoscopo\obj\Debug\net6.0\ref\horoscopo.dll
